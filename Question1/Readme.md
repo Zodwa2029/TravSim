@@ -1,0 +1,1 @@
+This Solution provided is reading integers from the standard output as student exam marks and save them into an object of class called Student. Then use the integers to calculate how many students who got highest marks than Alex.
